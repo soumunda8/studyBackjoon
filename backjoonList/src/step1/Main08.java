@@ -2,7 +2,8 @@ package step1;
 
 import java.util.Scanner;
 
-public class Math8 {
+// 성공
+public class Main08 {
 
     public static void main(String[] args) {
 

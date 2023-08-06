@@ -2,6 +2,7 @@ package step1;
 
 import java.util.Scanner;
 
+// 성공
 public class Main10 {
 
     public static void main(String[] args) {

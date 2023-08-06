@@ -1,10 +1,9 @@
 package step1;
 
-public class Main1 {
+// 실패
+public class Main11 {
 
     public static void main(String[] args) {
-
-        System.out.println("Hello world!");
 
     }
 
